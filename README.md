@@ -1,5 +1,14 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on<br><br>Mobile application development using Flutter<br><br>Small projects related to Information Systems<br><br>Building apps with a focus on useful and meaningful solutions<br><br>🤝 I'm looking to collaborate on<br><br>Flutter / Mobile App Development projects<br><br>Beginner–friendly open source projects<br><br>App ideas with social impact (education, health, productivity)<br><br>🆘 I'm looking for help with<br><br>Improving app architecture & clean code<br><br>Best practices in Flutter & Dart<br><br>UI/UX implementation for mobile apps<br><br>🌱 I'm currently learning<br><br>Flutter & Dart<br><br>Mobile app development<br><br>Basic software engineering principles<br><br>Information Systems concepts<br><br>💬 Ask me about<br><br>Flutter for beginners<br><br>My learning journey as an Information Systems undergraduate<br><br>Student projects & certifications<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into apps and learning by building 🚀
+👋 Hey there, I'm Harits!
+
+An Information Systems student who loves exploring how ideas can turn into real, usable applications.
+Currently diving into mobile app development with Flutter, while learning how technology, systems, and people connect behind the scenes.
+
+I enjoy learning by building projects, joining trainings and webinars, and occasionally breaking things just to understand how they work 😄
+I’m especially excited about creating apps with real impact—whether it’s improving productivity, supporting learning, or helping people live better.
+
+Still growing, still curious, and always open to collaboration, feedback, and new challenges.
+If you enjoy talking about Flutter, app ideas, or tech learning journeys—feel free to reach out 🚀
 
 
 ## 🌐 Socials:
